@@ -1,3 +1,13 @@
+html{
+    text-align: center;
+    background-color: darkgoldenrod;
+}
+
+.jumbotron{
+    background-color: tan;
+    display: inline-block;
+}
+
 header {
     font-size: 150px;
     text-align: middle;
